@@ -88,7 +88,7 @@ To avoid having to type in our username/password _every_ time we do something li
 
     - Open your `~/.ssh/config` file (can open with `vim`), then modify the file to contain the following lines. If your SSH key file has a different name or path than the example code, modify the filename or path to match your current setup.
 
-        ````
+        ```
         Host *
         AddKeysToAgent yes
         UseKeychain yes
