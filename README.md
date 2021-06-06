@@ -121,5 +121,12 @@ To avoid having to type in our username/password _every_ time we do something li
 
 1. Click on the green `New SSH key` button and paste in the contents of your file. The title can be `Personal Macbook`
 
+🏁 🏁 🏁
 
 Hooray! 🎉 You're done. Now you can interact with GitHub through your machine using `git` without having to enter in your username and password all the time!
+
+# Git Workflow
+
+How we work on our projects using `git` and GitHub.
+
+**TODO (Raph):** Write out this section
